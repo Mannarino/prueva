@@ -1,3 +1,3 @@
 
-var miArray = [1, 2, "gg", 4, 5,8];
+var miArray = [8,8,8;
 
