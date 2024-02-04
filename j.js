@@ -1,5 +1,5 @@
 
-var miArray = [8,8,8,2];
+var miArray = [8,8,8,2,18];
 
 console.log('nuevo cambio')
 
