@@ -8,8 +8,7 @@ console.log('segundo cambio')
 console.log(' cambio')
 
 console.log(' cambio')
-<<<<<<< HEAD
+
 
 console.log(' cambio')
-=======
->>>>>>> 5614a1a4f5365e61c9e305f883a540d75632318d
+
